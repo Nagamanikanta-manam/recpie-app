@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/recpie-app/static/css/main.e6c13ad2.css",
+    "main.js": "/recpie-app/static/js/main.2ec30507.js",
+    "static/js/453.64105b0e.chunk.js": "/recpie-app/static/js/453.64105b0e.chunk.js",
+    "static/media/hamburger.svg": "/recpie-app/static/media/hamburger.07089ff4c45c37c926300e47cf94b046.svg",
+    "static/media/search-icon.svg": "/recpie-app/static/media/search-icon.077696d454e854fd332e9275af3dc31c.svg",
+    "index.html": "/recpie-app/index.html",
+    "main.e6c13ad2.css.map": "/recpie-app/static/css/main.e6c13ad2.css.map",
+    "main.2ec30507.js.map": "/recpie-app/static/js/main.2ec30507.js.map",
+    "453.64105b0e.chunk.js.map": "/recpie-app/static/js/453.64105b0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2ec30507.js"
+  ]
+}
